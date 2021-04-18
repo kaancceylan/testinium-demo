@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c678706-b8c8-4a4e-b928-c5947a164def" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rKshhhU6SpuRazEyOAfhucTQm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/selenium jars and drivers/jars/okio-1.14.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c678706-b8c8-4a4e-b928-c5947a164def" name="Default Changelist" comment="" />
+      <created>1618736236455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618736236455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618737921773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1618737921773" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1618737822734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618737822734" />
+    <state width="1323" height="70" key="GridCell.Tab.0.bottom" timestamp="1618751920518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618751920518" />
+    <state width="1323" height="70" key="GridCell.Tab.0.center" timestamp="1618751920518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618751920518" />
+    <state width="1323" height="70" key="GridCell.Tab.0.left" timestamp="1618751920518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618751920518" />
+    <state width="1323" height="70" key="GridCell.Tab.0.right" timestamp="1618751920518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="70" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618751920518" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1618739096314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1618739096314" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1618736409724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618736409724" />
+  </component>
+</project>
